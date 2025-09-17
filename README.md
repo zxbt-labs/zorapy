@@ -4,7 +4,7 @@ This repository is a basic Python client for the Zora API.
 
 ## Official zora docs
 
-(Link)[https://docs.zora.co/]
+[Link](https://docs.zora.co/)
 
 ## Installation
 
